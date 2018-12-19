@@ -35,6 +35,9 @@ modules:
         name: controller-config
         url: ~{url}
         forwardAuthToken: true   
+
+ 
+
 resources:
  - name: controller-api-ex-uaa
    type: com.sap.xs.uaa
